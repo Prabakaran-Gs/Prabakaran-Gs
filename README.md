@@ -1,5 +1,17 @@
 # 💫 About Me:
-I am a pre-final year student , of Sri Sairam Engineering college from the Department of Artificial Intelleigence and Data Science<br>Intrested in Machine Learning and Deep Learning<br>Intrested in Drone Technology<br>I am currently Learning ROS and Jetson <br>Ask Me about ML and Deep Learning Concept<br><br>I am Preparing for GATE (DA) also i cleared my gate in First attempt
+
+I am a pre-final year student enrolled in the Department of Artificial Intelligence and Data Science at Sri Sairam Engineering College. My academic focus revolves around Machine Learning and Deep Learning, areas where I am deeply passionate and continuously strive to expand my expertise.
+
+In addition to my academic pursuits, I harbor a keen interest in Drone Technology, recognizing its potential to revolutionize various industries. Currently, I am engaged in honing my skills in Robot Operating System (ROS) and Jetson platforms, seeking to integrate these technologies with my knowledge of AI and Data Science.
+
+Having successfully cleared the Graduate Aptitude Test in Engineering (GATE) in my first attempt, I am now channeling my efforts towards further excellence in the field, particularly in the domain of Data Analytics. My goal is to leverage my skills and knowledge to contribute meaningfully to the advancement of technology and its applications in real-world scenarios.
+
+Feel free to engage with me on topics related to Machine Learning, Deep Learning, or any other areas of mutual interest. I am enthusiastic about sharing insights and exchanging ideas to foster learning and growth.
+
+Best regards,  
+[Your Name]  
+[Department of Artificial Intelligence and Data Science]  
+[Sri Sairam Engineering College]
 
 
 ## 🌐 Socials:
