@@ -8,11 +8,6 @@ Having successfully cleared the Graduate Aptitude Test in Engineering (GATE) in 
 
 Feel free to engage with me on topics related to Machine Learning, Deep Learning, or any other areas of mutual interest. I am enthusiastic about sharing insights and exchanging ideas to foster learning and growth.
 
-Best regards,  
-[Your Name]  
-[Department of Artificial Intelligence and Data Science]  
-[Sri Sairam Engineering College]
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/praba_karan_08) 
